@@ -84,7 +84,7 @@ h5 {
   color: teal;
 }
 h6 {
-  color: darkred;
+  color: black;
 }
 p {
   color: black;
@@ -305,11 +305,11 @@ bodyAccordian {
 }
 
 .containerAccordian {
- padding: 200px;
+ padding: 80px;
 }
 
 .faq-drawer {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .faq-drawer__content-wrapper {
@@ -371,7 +371,7 @@ input[type="checkbox"] {
 
 @media only screen and (max-width: 600px) {
   .containerAccordian {
-    padding: 80px;
+    padding: 60px;
   }
 }
 
